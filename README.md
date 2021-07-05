@@ -1,4 +1,4 @@
-# basic-Ruby-Postman-App
+# dev-portal-basic-Ruby-Postman-App-sample
 ## Requirements
 Building the client library requires:
 1.  Ruby 1.9.3 or higher [Installation][1]
@@ -13,11 +13,11 @@ Building the client library requires:
 ## Installation
 To copy the client to your computer copy link of the repository, open Command Prompt, go to the location where project will be copied and execute git clone command:
 ```shell
-git clone https://github.com/OlhaLevko/basic-Ruby-Postman-App.git
+git clone https://github.com/kyriba/dev-portal-basic-Ruby-Postman-App-sample.git
 ```
 Open the project folder via command prompt, for example:
 ```shell
-cd basic-Ruby-Postman-App
+cd dev-portal-basic-Ruby-Postman-App-sample
 ```
 Select the desired Collection in Postman, authenticate through "Get token." request and run the request that you want to provide in the Application.
 If the request works, copy code from Postman:
